@@ -1,3 +1,4 @@
+Ntsieni Midalo Shaka
 Learning track 1: Drug discovery
 
 Proteins play a crucial role in biological processes, making them prime targets in drug discovery, especially for cancer therapies. The drug discovery process involves identifying proteins that are dysregulated or altered in cancer, leading to uncontrolled cell growth. By targeting these proteins, drugs can interrupt cancer progression.
